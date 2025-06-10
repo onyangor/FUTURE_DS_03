@@ -71,4 +71,4 @@ The dashboard will load, and you can interact with the slicers and visuals to ex
 *(**Highly Recommended:** After saving this README, take a screenshot of your Power BI dashboard and add it to your GitHub repository. You can then link it here.)*
 
 ```markdown
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.png)
